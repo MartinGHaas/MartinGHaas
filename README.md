@@ -5,5 +5,5 @@ This is my first repository to identify myself. Actually, it's a test to better 
 &#8226 I used to play League of Legends, but idk, I think I've lost interest by playing it.<br>
 &#8226 As a brazilian, I love playing and seeing soccer. Neymar is just the best player of the world :)
 <hr>
-<h2>Soon I'll post more things in here, but for now is this! :)</h2><br>
+<h2>Soon I'll post more things in here, but for now is this! :)</h2>
 See you soon!
