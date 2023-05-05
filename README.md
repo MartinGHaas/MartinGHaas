@@ -1,9 +1,7 @@
-<h1> Hello everyone who is reading this!</h1>
-This is my first repository to identify myself. Actually, it's a test to better understand github(at least the beginning). But, I don't want to let this be JUST A TEST, it has to have some content right?!
-<hr>
-&#8226 I'm a young Brazilian looking to learn more about programming.<br>
-&#8226 I used to play League of Legends, but idk, I think I've lost interest by playing it.<br>
-&#8226 As a brazilian, I love playing and seeing soccer. Neymar is just the best player of the world :)
-<hr>
-<h3>Soon I'll post more things in here, but for now is this! :)</h3>
-See you soon!
+## Sejam bem-vindos ao ⭐MEU GITHUB⭐
+
+Ei pessoal! Eu sou Martin Gabriel Haas. Eu tenho habilidade em HTML, CSS JavaScript e Python. Eu tenho trabalhado em projetos incríveis de desenvolvimento web, se você quiser, pode dar uma olhadinha em meus repositórios! Tenho certeza que você encontrará algo que chamará sua atenção.
+
+## Meus Status
+[![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MartinGHaas&theme=tokyonight&count_private=true)](https://github.com/MartinGHaas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGHaas&layout=compact&theme=tokyonight)](https://github.com/MartinGHaas)
