@@ -1,7 +1,21 @@
-## Sejam bem-vindos ao ⭐MEU GITHUB⭐
+## Welcome to ⭐MY GITHUB⭐
 
-Ei pessoal! Eu sou Martin Gabriel Haas. Eu tenho habilidade em HTML, CSS JavaScript e Python. Eu tenho trabalhado em projetos incríveis de desenvolvimento web, se você quiser, pode dar uma olhadinha em meus repositórios! Tenho certeza que você encontrará algo que chamará sua atenção.
+> ### Who am I? 🚀
+> - I am a computer science student 👨‍💻
+> - Studying front-end in my free time ⏰
 
-## Meus Status
-[![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinghaas&theme=tokyonight)](https://github.com/MartinGHaas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinghaas&layout=compact&theme=tokyonight)](https://github.com/MartinGHaas)
+## My Skills 🛠️
+- Front-end: JavaScript, TypeScript, React
+- Other languages: Java, Python
+
+## Current Projects 🌟
+- React Project using TypeScript
+- Java projects for university
+
+<div align=center>
+  
+## Contact me 📬
+
+  <a target="blank" href="https://www.linkedin.com/in/mg-haas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="blank" href="mailto:martinhaas2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
